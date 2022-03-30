@@ -1,0 +1,53 @@
+Week 2
+
+Video 1
+
+El hardware por si solo no puede hacer nada, necesita del software.
+
+Computadora: maquina universal --> computadora q puede ser reprogramada para utilizar cualquier tipo de calculo con una serie de instrucciones finita.
+
+V2
+
+Tipos de Software
+Software: Maneras de darle instrucciones a la computadora para que realice diversas tareas.
+
+- S. Sistema: Directamente interactua con el Hardware. Sistemas Operativos, Drivers...
+SO = Controla al Harware, opera directamente al HW
+
+- S. Aplicacion: Funciona encima del Sistema Operativo, realizan una aplicacion / una tarea especifica.
+
+- S. Desarrollo: Se usa para crear otro software, Cualquier otro tipo de soft.
+
+V3
+
+Programacion: Proceso de darle instrucciones a una computadora para que realice una tarea determinada.
+Las instrucciones deben ser claras y precisas.
+
+Proceso de darle instrucciones a la computadora, de crear software.
+El software es el producto, o el resultado. La prog. es el proceso de escribir soft.
+
+Programacion: Resuelve Problemas
+Algoritmo: Pasos que voy a utilizar para resolver el problema.
+Implementar: Alguna solucion ya planeada y diseñada, va a ser llevada a codigo.
+Escribir codigo: En un lenguaje de Programacion.
+
+V1-2
+
+- Software Propietario: Microsoft. Desarrollan y venden software.
+
+- Software Libre: GNU
+
+- Software Open Source: Linux
+
+V2-2
+
+Tipos de lenguajes de prog.
+
+Primer lenguaje: Compilado: Escribes el codigo y pasa por un compilador q lo traduce a codigo de maquina.
+
+Lenguaje Interpretado: Traduce el codigo y lo convierte a lenguaje de maquina, lo hace en tiempo de ejecucion.
+
+Lenguaje Intermedio: Escribe y compila el codigo, pero no devuelve codigo de maquina, sino bytecode (intermedio entre la compilacion y la interpretacion) se lleva a un entorno q tiene un interprete. Con esto podemos ejecutar el programa en cualquier sistema operativo.
+
+
+
