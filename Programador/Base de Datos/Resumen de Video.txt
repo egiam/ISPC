@@ -1,0 +1,49 @@
+
+Dato: Palabras y numeros que por si solos no tienen significado.
+Base de Datos: Coleccion de datos relacionada organizada y ordenada de tal forma que ese conjunto de datos reciba un sentido.
+
+Componentes de BD: 
+	- Campo: Area donde almacenamos los datos, pero del mismo tipo.
+	- Registro: Coleccion de datos o diferentes tipos q estan relacionados. Coleccion de datos relacionada.
+	- Archivo: Coleccion de registros relacionados, siguiendo una estructura homogenea. Todo el conjunto de campos y registros es el archivo.
+
+Modelos de Base de datos: Conjuntos de ideas logicas utilizadas para representar la estructura de las base de datos.
+Aquello que nos va a permitir plasmar todo lo q hay en la BD.
+
+Modelo relacional: Permite visualizar la estructura de una bd y las relaciones entre datos.
+
+Diagrama entidad relacion: Herramienta para modelar nuestra base de datos y analizarla.
+
+Elementos:
+	- Entidad: Objeto concreto o abstracto que figura en nuestra bd.
+	- Relacion: Relacion entre entidades.
+	- Union entre entidades
+	- Atributo: Caracteristica de una entidad
+	- Atributo principal o clave primaria (Unica)
+	- Atributo foraneo o clave secundaria (relaciones)
+
+
+Cardinalidad o mapeo: Tipo de relaciones entre entidades
+
+Relacion uno-uno --> para una entidad 'azul' solo puede haber relacion con una entidad 'naranja'
+Uno-muchos --> Para cada entidad 'azul' puede tener relacion con uno o mas entidades 'naranjas'
+muchos-uno --> al reves del uno-muchos
+muchos-muchos --> Las entidades 'azules' puede tener muchas entidades 'naranjas' y vicebersa.
+
+Diagrama entidad relacion extendido.
+
+Normalizacion: Proceseo de simplificacion de datos
+	- Tener almacenado con el menor espacio posible
+	- Eliminar datos repetidos
+	- Eliminar errores logicos
+	- Datos ordenados
+
+Niveles:
+	- Primer Forma Noraml: 
+	- Segunda: Dependencia Funcional: B y C dependen totalmente de A.
+		   Dependencia Transitiva: B depende de A y C depende de B. C depende transitivamente de A.
+	- Tercer: 
+
+
+
+
