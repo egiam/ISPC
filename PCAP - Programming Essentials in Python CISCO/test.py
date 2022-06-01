@@ -1,6 +1,19 @@
 # my_list = [3, 1, -2]
 # print(my_list[my_list[-1]])
 
+y = 2 + 3 * 5.
+print(y)
+
+x = 2
+y = 4
+
+x = x // y
+y = y // x
+
+print(y)
+
+print(1//2*3)
+
 vals=[0,1,2]
 vals.insert(0,1)
 del vals[1]
