@@ -1,4 +1,15 @@
 
+Introduccion a la gestion de proyectos
 
+El proyeccto es un plan de trabajo.
+
+Aprendizaje centrado en el saber y saber hacer.
+
+Diagnostico: Definir el problema. FODA. Arbol de problema (Esquema basico)(Negativos). Arbol de Soluciones (Positivos)
+Planificacion: Para que se hace el proyecto. Definir Objetivos, gral y especificos. Definir Beneficiarios. Actividades (Cronograma de acciones [Diagrama de Gantt]). Determinar Plazos. Responsables. Recursos.
+Ejecucion: Desarrollar las actividades respetando los plazos y el presupuesto planteado.
+Evaluacion: Mirar hacia atras y evaluar todo lo que se hizo.
+
+Monitoreo permanente.
 
 
