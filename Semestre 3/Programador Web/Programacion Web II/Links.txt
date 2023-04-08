@@ -1,0 +1,18 @@
+
+Material de estudio complementario Eje Temático N°1
+
+
+https://www.campusmvp.es/recursos/post/typescript-contra-javascript-cual-deberias-utilizar.aspx
+
+https://es.strephonsays.com/javascript-and-vs-typescript-13697
+
+https://docs.microsoft.com/es-es/learn/modules/typescript-declare-instantiate-classes/
+
+https://ferestrepoca.github.io/paradigmas-de-programacion/poo/poo_teoria/concepts.html
+
+https://github.com/111milprogramadores/apuntes/blob/master/Programacion%20Orientada%20a%20Objetos/Apunte%20Teorico%20de%20Programacion%20OO.pdf
+
+-------------------------------------------------------------------------------
+
+
+
