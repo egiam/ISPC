@@ -1,0 +1,17 @@
+Circuito Economico
+
+LAS NECESIDADES HUMANAS
+	5 niveles por orden jerarquico (Maslow):
+		1. Necesidades fisiológicas:
+			° Necesidad de movimiento.
+			° Necesidad de aire puro.
+			° Necesidad de alimentacion.
+			° Necesidad de evacuación.
+			° Necesidad de temperatura adecuada.
+			° Necesidad de descanzo.
+			° Necesidad de sexo.
+		2. Necesidad de seguridad.
+		3. Necesidad de pertenencia y amor.
+		4. Necesidad de estima.
+		5. Necesidad de autorrealización.
+
